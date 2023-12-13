@@ -1,0 +1,31 @@
+table {
+    background-color: black;
+    margin: 200 auto; 
+}
+
+td {
+    width: 40px; 
+    height: 40px; 
+    background-color: rgb(18, 0, 100)
+}
+
+.pacman {
+    background-color: rgb(238, 255, 0)
+}
+
+.enemy1{
+    background-color: green;
+}
+
+.enemy2{
+    background-color: blue; 
+}
+
+.enemy3{
+    background-color: purple; 
+}
+
+.enemy4{
+    background-color: red; 
+}
+
